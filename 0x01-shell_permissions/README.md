@@ -1,1 +1,1 @@
-John
+directories permissions
