@@ -1,1 +1,1 @@
-first diretory
+Script for current working directory
