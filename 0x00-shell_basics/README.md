@@ -1,1 +1,1 @@
-display long and hidden files
+list and display numerically
