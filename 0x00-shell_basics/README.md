@@ -1,1 +1,1 @@
-Previous directoty
+../boot
