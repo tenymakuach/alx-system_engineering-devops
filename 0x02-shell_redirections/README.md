@@ -1,1 +1,1 @@
-Create a script that displays the 10 newest files in the current directory, one file per line and sorted from the newest to the oldest
+Create a script that takes a list of words as input and prints only words that appear exactly once, one line, one word and words should be sorted
