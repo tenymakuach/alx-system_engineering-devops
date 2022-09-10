@@ -1,1 +1,1 @@
-Write a script that displays all users and their home directories, sorted by users, based on /etc/passwd file
+script that lists all the files with a .gif extension in the current directory and all its sub-directories. Only the names of the files should be displayed without extension.The files should be sorted with bytes values, but case insensitive
