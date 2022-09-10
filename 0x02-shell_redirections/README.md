@@ -1,1 +1,1 @@
-script that lists all the files with a .gif extension in the current directory and all its sub-directories. Only the names of the files should be displayed without extension.The files should be sorted with bytes values, but case insensitive
+command that finds all empty files and directories in the current directory and all sub-directories.
